@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personna Location</string>
+    <string name="mapbox_access_token">"Your Api Key"</string>
+    <string name="no_data">Something went wrong</string>
+    <string name="title_list">List personnes</string>
+    <string name="title_map">Map personnes</string>
+</resources>
